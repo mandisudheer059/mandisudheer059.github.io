@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mandisudheer059/mandisudheer059.github.io.git/my-portfolio",
+  "homepage": "https://mandisudheer059.github.io",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
